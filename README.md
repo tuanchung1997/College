@@ -22,9 +22,13 @@
     <li>3: Kiểm tra số chính phương</li>
 </ul>
 <p>
-    <h4><i>Ý tưởng: </i></h4><br/>
-    <strong>Chức năng 1:</strong><br/>
-    <i>- Để kiểm tra số vừa nhập có phải là số nguyên, ta dựa vào phần thập phân của số thực</i>
+    <h4><i>Ý tưởng: </i></h4>
+    <strong>Chức năng 1:</strong>
+    <i>
+    - Để kiểm tra số vừa nhập có phải là số nguyên, ta dựa vào phần thập phân của số thực.
+    - Cụ thể, ta cho phép người dùng nhập vào một số thực (double hoặc float), ta tiến hành trừ số thực vừa nhập cho phần nguyên của chính nó
+    - Nếu kết quả bằng 0 thì là số nguyên.
+    </i>
     <strong></strong>
     <strong></strong>
 </p>
