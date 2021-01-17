@@ -55,11 +55,10 @@
             - Trả về Number2 nếu r (phần dư của Number1 và Number2) bằng 0 <br/>
             - Gọi đệ quy: GCD(Number2, Number1 % Number2) <br/>
         </i>
-
         <strong>Bội chung nhỏ nhất (LCM)</strong><br/>
         <i>
             - Khi đã có ước chung lớn nhất <br/>
-            - Ta áp dụng công thức: (Number1 * Number2)/GCD(Number1, Number2)
+            - Ta áp dụng công thức: (Number1 * Number2)/GCD(Number1, Number2) <br/>
         </i>
     </p>
 </div>
