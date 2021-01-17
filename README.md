@@ -22,8 +22,8 @@
         <li>2: Kiểm tra số nguyên tố</li>
         <li>3: Kiểm tra số chính phương</li>
     </ul>
-    <p>
-        <h3><i>Ý tưởng: </i></h3>
+    <h3>Ý tưởng:</h3>
+    <p>    
         <strong>Chức năng 1:</strong><br/>
         <i>
             - Để kiểm tra số vừa nhập có phải là số nguyên, ta dựa vào phần thập phân của số thực. <br/>
@@ -40,6 +40,26 @@
             - Số chính phương là bình phương của 1 số tự nhiên. <br/>
             - Để xác định, ta sẽ nhân phần nguyên của căn bậc 2 số đó, nếu kết quả bằng số ban đầu thì là số chính phương. <br/>
             - Cụ thể ta ép kiểu (int)sqrt(number) * (int)sqrt(number).
+        </i>
+    </p>
+</div>
+
+<div>
+    <h2>Tìm ước chung lớn nhất và bội chung nhỏ nhất</h2>
+    <h3>Ý tưởng:</h3>
+    <p>
+        <strong>Ước chung lớn nhất (GCD)</strong><br/>
+        <i>
+            - Giải thuật: Euclid <br/>
+            - Ta có 2 số: Number1 và Number2 <br/>
+            - Trả về Number2 nếu r (phần dư của Number1 và Number2) bằng 0 <br/>
+            - Gọi đệ quy: GCD(Number2, Number1 % Number2) <br/>
+        </i>
+
+        <strong>Bội chung nhỏ nhất (LCM)</strong><br/>
+        <i>
+            - Khi đã có ước chung lớn nhất <br/>
+            - Ta áp dụng công thức: (Number1 * Number2)/GCD(Number1, Number2)
         </i>
     </p>
 </div>
