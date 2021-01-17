@@ -15,9 +15,18 @@
 
 <h1>Ý tưởng của từng chức năng</h1>
 <h2>Kiểm tra số nguyên</h2>
+<h3>Bao gồm:</h3>
+<ul>
+    <li>1: Kiểm tra số nhập vào có phải là số nguyên</li>
+    <li>2: Kiểm tra số nguyên tố</li>
+    <li>3: Kiểm tra số chính phương</li>
+</ul>
 <p>
-    <strong>Ý tưởng: </strong>
-    
+    <h4><i>Ý tưởng: </i></h4><br/>
+    <strong>Chức năng 1:</strong><br/>
+    <i>- Để kiểm tra số vừa nhập có phải là số nguyên, ta dựa vào phần thập phân của số thực</i>
+    <strong></strong>
+    <strong></strong>
 </p>
 
  
