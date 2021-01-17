@@ -1,0 +1,10 @@
+﻿  lib.cpp
+C:\Users\tuanc\source\repos\Assignment Last Version\Assignment Last Version\lib.cpp(142,25): warning C4018: '>': signed/unsigned mismatch
+C:\Users\tuanc\source\repos\Assignment Last Version\Assignment Last Version\lib.cpp(222,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\tuanc\source\repos\Assignment Last Version\Assignment Last Version\lib.cpp(222,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  source.cpp
+C:\Users\tuanc\source\repos\Assignment Last Version\Assignment Last Version\source.cpp(743,21): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\tuanc\source\repos\Assignment Last Version\Assignment Last Version\source.cpp(1694,90): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\tuanc\source\repos\Assignment Last Version\Assignment Last Version\source.cpp(1695,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Assignment Last Version.vcxproj -> C:\Users\tuanc\source\repos\Assignment Last Version\Debug\Assignment Last Version.exe
