@@ -1,4 +1,4 @@
-# Assignment C++
+# Assignment C++ - COM108 - FPOLY
 
 ## Yêu cầu
 1. Kiểm tra số nguyên
